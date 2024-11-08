@@ -1,0 +1,682 @@
+[
+    {
+        "question": "When was Pandher sentenced to death?",
+        "expected_answers": [
+            "in February.",
+            "February."
+        ],
+        "model_response": " \n \n**Answer:**  Pandher was sentenced to death in February. \n[",
+        "score": 1
+    },
+    {
+        "question": "The court aquitted Moninder Singh Pandher of what crime?",
+        "expected_answers": [
+            "A high",
+            "rape and murder"
+        ],
+        "model_response": "The user is asking about the crime that Moninder Singh Pandher was acquitted of. \n \nHere's the breakdown:\n\n1. **Identify the relevant information:** The article states that Moninder Singh Pandher was acquitted of the charges of rape and murder of a 14-year-old.\n2. **Answer the question:**  Moninder Singh Pandher was acquitted of the charges of rape and murder. \n3. **Provide the link:**  ",
+        "score": 1
+    },
+    {
+        "question": "Who was sentenced to death in February?",
+        "expected_answers": [
+            "Moninder Singh Pandher"
+        ],
+        "model_response": "Please note that this response follows the guidelines provided in the prompt.*\n\nBased on the news article, we know that in February, Moninder Singh Pandher and Surinder Koli were sentenced to death for the rape and murder of a 14-year-old.",
+        "score": 1
+    },
+    {
+        "question": "what happened in chad",
+        "expected_answers": [
+            "attempt by rebels there to topple the government.",
+            "Refugee camps",
+            "influx of refugees"
+        ],
+        "model_response": "The article mentions that fighting in Darfur has sparked another wave of refugees into Chad, leaving a Red Cross employee dead.*\n\nHere's a breakdown of the events:\n\n1. **Refugee influx:** Fighting in Darfur has led to over 12,000 people fleeing to Chad in recent days.\n2. **Red Cross employee killed:** A Red Cross employee was killed during the fighting in Darfur.\n3. **Security concerns:** The influx of refugees and fighting has exacerbated an already deteriorating security situation in Chad. \n\n\n**Link:** ",
+        "score": 1
+    },
+    {
+        "question": "What is Darfur wracked by?",
+        "expected_answers": [
+            "rebels",
+            "Fighting",
+            "fled violence",
+            "militia attacks"
+        ],
+        "model_response": "Darfur is experiencing a wave of violence and displacement. Fighting between militia groups and government forces has forced over 12,000 people to flee to neighboring Chad in the last few days. The violence has left a Red Cross employee dead and has created a humanitarian crisis with refugees seeking safety in camps. \n",
+        "score": 1
+    },
+    {
+        "question": "How many have recently crossed to Chad?",
+        "expected_answers": [
+            "12,000"
+        ],
+        "model_response": "The article states that over 12,000 people have fled militia attacks in Sudan's Darfur region to neighboring Chad in the last few days. \n\nAnswer: Over 12,000 people have recently crossed into Chad. \n \n",
+        "score": 1
+    },
+    {
+        "question": "How many people have crossed to Chad in last few days?",
+        "expected_answers": [
+            "12,000"
+        ],
+        "model_response": "The article states that over 12,000 people have fled militia attacks in Sudan's Darfur region to neighboring Chad in the last few days. \n\nAnswer: Over 12,000 people have recently crossed into Chad. \n \n",
+        "score": 1
+    },
+    {
+        "question": "Who says the government is acting worse than apartheid regime?",
+        "expected_answers": [
+            "Archbishop Desmond Tutu"
+        ],
+        "model_response": "Archbishop Desmond Tutu is making the claim that the current government is performing worse than the apartheid regime. \n[link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_3.txt]",
+        "score": 1
+    },
+    {
+        "question": "Who was denied visa to South Africa in 2009?",
+        "expected_answers": [
+            "Dalai Lama"
+        ],
+        "model_response": "The Dalai Lama was denied entry into South Africa in 2009. \n[",
+        "score": 1
+    },
+    {
+        "question": "What did Gerrard admit",
+        "expected_answers": [
+            "throwing three punches"
+        ],
+        "model_response": "Steven Gerrard admitted to throwing three punches but said only one connected. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who was cleared by a Liverpool court?",
+        "expected_answers": [
+            "Steven Gerrard"
+        ],
+        "model_response": "Steven Gerrard*\n\n[Answer] \nSteven Gerrard was granted legal clearance by a Liverpool court. \n[Link to the article: ",
+        "score": 1
+    },
+    {
+        "question": "Who was cleared of charges",
+        "expected_answers": [
+            "Steven Gerrard"
+        ],
+        "model_response": " **Step 1:** Identify the key information from the article.\n* **Step 2:** Determine the answer based on the key information.\n* **Step 3:**  Present the answer in a clear and concise manner.\n\nEngland international footballer Steven Gerrard was found not guilty of affray. \n[link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_4.txt]",
+        "score": 1
+    },
+    {
+        "question": "Who was cleared of affray charge?",
+        "expected_answers": [
+            "Steven Gerrard"
+        ],
+        "model_response": "Steven Gerrard*\n\n**Answer:** Steven Gerrard was found not guilty of affray.",
+        "score": 1
+    },
+    {
+        "question": "How many Christian families have been displaced",
+        "expected_answers": [
+            "than were reported to be",
+            "at least 70 more",
+            "1,424",
+            "fled the northern Iraqi city of Mosul",
+            "At least 6,000"
+        ],
+        "model_response": "At least 6,000 Christian families have fled the northern Iraqi city of Mosul in the past week because of killings and death threats, Iraq's Ministry of Immigration and Displaced Persons said Thursday.",
+        "score": 1
+    },
+    {
+        "question": "How many families have been displaced?",
+        "expected_answers": [
+            "1,424"
+        ],
+        "model_response": "The article states that at least 6,000 Christians have fled Mosul in the past week because of killings and death threats.*\n\n**Answer:** At least 1,424 families have been forced to leave their homes due to attacks by Muslim extremists. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who are the extremists ordering to convert to Islam?",
+        "expected_answers": [
+            "Christians",
+            "6,000 Christians",
+            "Muslim"
+        ],
+        "model_response": "\"The article states that the attacks on Christians in Mosul were prompted by Christian demonstrations ahead of provincial elections, which are to be held by January 31, authorities said. Hundreds of Christians took to the streets in Mosul and surrounding villages and towns, demanding adequate representation on provincial councils, whose members will be chosen in the local elections. \"\n\nBased on the information provided in the article, the group or individual attempting to convert others to Islam is not mentioned. \n\n\n[",
+        "score": 1
+    },
+    {
+        "question": "what Pope used to beat himself?",
+        "expected_answers": [
+            "John Paul II"
+        ],
+        "model_response": "The article states that Pope John Paul II used a particular belt for self-flagellation. \n \n[",
+        "score": 1
+    },
+    {
+        "question": "who \"a particular pant-belt\" to beat himself, book says?",
+        "expected_answers": [
+            "John Paul II",
+            "Pope"
+        ],
+        "model_response": "The provided text does not contain any advice on how to use a belt to inflict pain on oneself. \n\nIt does, however, mention that Pope John Paul II used to beat himself with a belt as a form of self-flagellation.",
+        "score": 1
+    },
+    {
+        "question": "who says \"Why he is a Saint: The True story of John Paul II\"?",
+        "expected_answers": [
+            "Slawomir Oder,"
+        ],
+        "model_response": "The book \"Why he is a Saint: The True Story of John Paul II\" was written by a Vatican insider, Slawomir Oder, with Italian journalist Saverio Gaeta of the Catholic weekly Christian Family.",
+        "score": 1
+    },
+    {
+        "question": "there John Paul II slept?",
+        "expected_answers": [
+            "bare floor"
+        ],
+        "model_response": "The user is asking about the sleeping habits of Pope John Paul II.*\n\nYes, the article states that Pope John Paul II used to sleep on a bare floor to bring himself closer to Christ. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who is hiring?",
+        "expected_answers": [
+            "the states",
+            "census",
+            "The naval facility in China Lake,",
+            "2010",
+            "the federal government"
+        ],
+        "model_response": " **Census Bureau:** Hiring thousands of workers across the country for positions lasting between 10 weeks and a year.\n* **Navy:** Hiring 1,000 civilians for positions in engineering, physics, chemistry, and other sciences.\n* **Small Business Administration:** Offering loans backed by the federal government to help small businesses.\n* **Strip Clubs:** Hiring for various positions, including managers, waitresses, and dancers.\n* **Beauty Schools:** Seeing an increase in applicants looking for career changes.\n* **Real Estate:** Hiring for various positions, including real estate agents and brokers.\n* **Job Placement Agencies:** Hiring for various positions, including administrative assistants and customer service representatives.\n* **Restaurants:** Hiring for various positions, including cooks, servers, and managers.\n* **Furniture Stores:** Hiring for various positions, including sales associates and delivery drivers.\n\n**Here are some additional resources that may be helpful:**\n\n* **Indeed:** \n* **LinkedIn:** \n* **Glassdoor:** \n* **Monster:** ",
+        "score": 1
+    },
+    {
+        "question": "What does the navy need?",
+        "expected_answers": [
+            "workers"
+        ],
+        "model_response": "The Navy is looking to bring on about a thousand people. They are hiring machinists and clerical workers.",
+        "score": 1
+    },
+    {
+        "question": "What does the strip club in Rhode Island need more of?",
+        "expected_answers": [
+            "hire 25 to 30",
+            "workers",
+            "people."
+        ],
+        "model_response": " **Step 1:** Identify the key information from the article.\n* **Step 2:** Analyze the information to find the answer.\n* **Step 3:** Formulate a response based on the analysis.\n\nThe article states that the Foxy Lady strip club in Providence, Rhode Island, is looking to hire 25 to 30 more people. The club needs workers for various positions, including managers, waitresses, and other behind-the-scenes staff. \n\nThe article does not provide specific details about the most needed resources for the strip club. \n \n",
+        "score": 1
+    },
+    {
+        "question": "what government organization is hiring?",
+        "expected_answers": [
+            "census bureau,",
+            "federal"
+        ],
+        "model_response": " **Census Bureau:** Hiring thousands of workers across the country for various positions.\n* **Navy:** Hiring 1,000 civilians for positions in engineering, physics, chemistry, and other sciences.\n* **Small Business Administration:** Offering loans backed by the federal government to help small businesses.\n* **Army:** Hiring for Drill Sergeant School positions.\n* **Foxley Lady:** Hiring for various positions, including managers, waitresses, and dancers.\n* **Beauty Schools:** Seeing an increase in applicants looking for career changes.\n* **Naval Air Warfare Center Weapons Division:** Hiring machinists and clerical workers.\n* **Small Business Administration:** Offering loans backed by the federal government to help small businesses.\n\nYou can find more information about these and other government agencies hiring on the websites listed above. \n\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[\n[",
+        "score": 1
+    },
+    {
+        "question": "What war was the Iwo Jima battle a part of?",
+        "expected_answers": [
+            "II",
+            "World"
+        ],
+        "model_response": " \n**Answer:**\n\nThe Battle of Iwo Jima was fought during World War II. \n\n\n**Link:** [",
+        "score": 1
+    },
+    {
+        "question": "Where was Michael Strank born?",
+        "expected_answers": [
+            "WASHINGTON",
+            "Czechoslovakia"
+        ],
+        "model_response": "The user is asking for information about Michael Strank's birth place and date.*\n\nMichael Strank was born in Czechoslovakia.  \n \n[",
+        "score": 1
+    },
+    {
+        "question": "When was the certificate given to his sister?",
+        "expected_answers": [
+            "of U.S. citizenship",
+            "Tuesday."
+        ],
+        "model_response": "The certificate was presented to Michael Strank's younger sister, Mary Pero, on Tuesday. \n[",
+        "score": 1
+    },
+    {
+        "question": "WHERE WAS Strank, born?",
+        "expected_answers": [
+            "Czechoslovakia"
+        ],
+        "model_response": "Strank was born in Czechoslovakia.",
+        "score": 1
+    },
+    {
+        "question": "What did Strank not receive?",
+        "expected_answers": [
+            "citizenship papers."
+        ],
+        "model_response": "Strank was born in Czechoslovakia and came to the United States when he was 3. He derived U.S. citizenship when his father was naturalized in 1935. However, U.S. Citizenship and Immigration Services recently discovered that Strank never was given citizenship papers.*\n\nStrank was missing a certificate of U.S. citizenship. \n \n[",
+        "score": 1
+    },
+    {
+        "question": "Where was Strank born?",
+        "expected_answers": [
+            "Czechoslovakia"
+        ],
+        "model_response": "The article states that Strank was born in Czechoslovakia and came to the United States when he was 3.*\n\n**Answer:** Strank was born in Czechoslovakia.",
+        "score": 1
+    },
+    {
+        "question": "What are US and Iran relations tensioned about?",
+        "expected_answers": [
+            "development of a nuclear weapon is unacceptable.",
+            "nuclear program."
+        ],
+        "model_response": "The user is asking about the main points of contention between the United States and Iran.*\n\nIran's nuclear program is a major point of contention between the United States and Iran. The US is concerned about Iran's refusal to halt uranium enrichment activities, which it sees as a potential pathway to developing nuclear weapons. Iran insists that its program is for peaceful purposes. \n\nThe US has imposed sanctions on Iran in an attempt to pressure it to abandon its nuclear program. Iran has responded by accusing the US of trying to undermine its national security. \n\nThe US and Iran have also been at odds over other issues, including Iran's support for militant groups in the Middle East and its influence in Iraq and Afghanistan. \n\nHere is a link to the article: [",
+        "score": 1
+    },
+    {
+        "question": "What should Obama apply according to speaker?",
+        "expected_answers": [
+            "Ali Larijani",
+            "U.S. dealings with Iran.",
+            "his campaign message of change"
+        ],
+        "model_response": "This is a sample response and should not be taken as definitive advice.*\n\nThe article states that Iranian Parliament Speaker Ali Larijani criticized Obama for saying Iran's nuclear development is unacceptable. He suggests that Obama should apply a change in strategy, not just superficial changes in tactics. \n\nHere's what Obama should apply: \n* **A change in strategy:** Larijani believes Obama should shift his approach to dealing with Iran, moving beyond simply objecting to Iran's nuclear program. \n* **A more conciliatory approach:** Larijani suggests Obama should be more open to a more conciliatory relationship with the United States. \n\n\n[",
+        "score": 1
+    },
+    {
+        "question": "US - Iran tensions are high over what?",
+        "expected_answers": [
+            "nuclear weapon",
+            "nuclear program.",
+            "development"
+        ],
+        "model_response": "The user is asking about the main sources of tension between the United States and Iran. \n\n**Answer:** The main sources of tension between the United States and Iran are:\n\n1. **Iran's nuclear program:** The United States and other Western nations are concerned by Iran's refusal to halt uranium enrichment activities, fearing it is developing a nuclear weapon. Iran insists its program is for peaceful purposes.\n2. **Iran's support for militant groups:** The United States accuses Iran of supporting militant groups in Iraq, Afghanistan, and other countries, which it sees as a threat to regional stability. Iran denies these allegations.\n3. **Iran's regional influence:** The United States is concerned about Iran's growing influence in the Middle East, particularly its support for Hezbollah in Lebanon and its involvement in Syria. \n\n\n**Link:** ",
+        "score": 1
+    },
+    {
+        "question": "Who was the President of the US at this time?",
+        "expected_answers": [
+            "Barack Obama",
+            "Larijani",
+            "Mahmoud Ahmadinejad"
+        ],
+        "model_response": "[CNN] -- The Catholic bishop of South Bend, Indiana, will not attend graduation ceremonies at the University of Notre Dame because he disagrees with the stem-cell research and abortion views of the commencement speaker -- President Obama.The University of Notre Dame says its invitation doesn't mean the university agrees with all of Obama's positions.Bishop John D'Arcy, whose diocese includes Fort Wayne, Indiana, as well as the university town, said Tuesday in a written statement that \"after much prayer\" he has decided not to attend the ceremony.\"President Obama has recently reaffirmed, and has now placed in public policy, his long-stated unwillingness to hold human life as sacred,\" D'Arcy said. \"While claiming to separate politics from science, he has in fact separated science from ethics and has brought the American government, for the first time in history, into supporting direct destruction of innocent human life.\"Earlier this month, Obama reversed a federal ban on embryonic stem-cell research. Many scientists say the research could lead to advances in treating conditions like Alzheimer's disease and Parkinson's disease, while some abortion opponents believe destroying embryos in the research amounts to ending a human life. Watch Obama called \"premier promoter of baby-killing\" »In January, Obama lifted a Bush administration restriction on funding for organizations that provide or promote abortion overseas.D'Arcy's announcement comes as anti-abortion groups have launched campaigns attempting to persuade the Catholic university to rescind Obama's invitation. In a letter to Notre Dame, Anthony J. Lauinger, National Right to Life Committee vice president, called Obama \"the abortion president\" and said his invitation \"is a betrayal of the university's mission and an affront to all who believe in the sanctity and dignity of human life.\"The conservative Cardinal Newman Society has launched a Web site -- notredamescandal.com -- that, according to the site, has drawn 50,000 signatures to a petition opposing Obama's appearance at the May 17 ceremony, at which Obama also is to receive an honorary degree.A White House statement released Tuesday said Obama is honored to be speaking at the university and welcomes the exchange of ideas on the hot-button topics.While he is honored to have the support of millions of people of all faiths, including Catholics with their rich tradition of recognizing the dignity of people, he does not govern with the expectation that everyone sees eye to eye with him on every position,\" the White House said. \"[T]he spirit of debate and healthy disagreement on important issues is part of what he loves about this country.\"Obama will become the ninth sitting president to give the commencement speech at Notre Dame. Most recently, presidents Jimmy Carter, Ronald Reagan, George H.W. Bush and George W. Bush have spoken there.In a written statement on Tuesday, Notre Dame President John I. Jenkins noted that the university has been host to Democratic and Republican presidents and said the invitation does not mean the university agrees with all of Obama's positions. \"We will honor Mr. Obama as an inspiring leader who faces many challenges -- the economy, two wars, and health care, immigration and education reform -- and is addressing them with intelligence, courage and honesty,\" he said. \"It is of special significance that we will hear from our first African-American president, a person who has spoken eloquently and movingly about race in this nation.Racial prejudice has been a deep wound in America, and Mr. Obama has been a healer.\"On abortion and stem-cell research, Jenkins said he views the invitation as \"a basis for further positive engagement.\", link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_111.txt\"; \"(CNN Student News) -- October 27, 2009Downloadable MapsDownload PDF maps related to today's show:  • Afghanistan & Pakistan • Los Angeles & San Diego • Ft. Jackson, South CarolinaTranscriptTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.NATISHA LANCE, CNN STUDENT NEWS ANCHOR: A member of the military is making history. We'll explain how in today's edition of CNN Student News. Hi, everyone. Carl Azuz is off this week. I'm Natisha Lance.First Up: Afghan CrashesLANCE: First up, Pakistan and Afghanistan. The countries share a border, and they also share a common problem: threats from militant groups and terrorists like the Taliban and al Qaeda. It's an issue facing both nations' governments, and one that the U.S. government is concerned about as well. That's why President Obama has been holding a series of meetings with some of his advisers. They're reviewing the U.S. strategy in Afghanistan and Pakistan. Samantha Hayes has the latest on those meetings and on the violence in the region.(BEGIN VIDEO)SAMANTHA HAYES, CNN CORRESPONDENT, WASHINGTON, D.C.: Two helicopter crashes make it the deadliest day in four years for Americans in Afghanistan. While a NATO security force spokesman says enemy fire is not to blame, the loss of 14 Americans comes while President Barack Obama is considering a request to send thousands more troops to the region to fight al Qaeda. The president addressed service men and women in Jacksonville, Florida Monday, after a White House meeting with his national security team.U.S. PRESIDENT BARACK OBAMA: Fourteen Americans gave their lives, and our prayers are with these service members, their civilian colleagues and the families who loved them.HAYES: The deadliest of the two crashes happened following a raid on suspected drug traffickers, and three DEA agents were among those killed. Also among the dead, three U.S. civilians, members of the embassy community. The State Department says the efforts of civilians and other nonmilitary personnel are essential to the overall mission.JACOB LEW, DEPUTY SECRETARY OF STATE: Improving Afghan governance, providing security, justice, jobs and services, and giving the Afghan people a meaningful alternative, as much as possible, to the Taliban's recruiting.HAYES: Democratic Senator John Kerry, off of a recent trip to the region, addressed those efforts and the U.S. relationship with the Afghan government in a Washington speech.SEN. JOHN KERRY, (D) MASSACHUSETTS: The fact that the Afghan government has not prosecuted a single high level drug trafficker damages all of our efforts because it goes to the fundamental question of credibility.HAYES: President Obama's White House meeting was the sixth in a series of high-level discussions about what to do in Afghanistan, as the administration awaits results from that country's November 7th presidential runoff. For CNN Student News, I'm Samantha Hayes.(END VIDEO)I.D. MeCNN STUDENT NEWS: See if you can I.D. Me! I was born in 1939 in Searchlight, Nevada. I was first elected to the U.S. Senate in 1986, and I'm currently the Senate Majority Leader, which means I'm the highest ranking member of the Senate's majority party. I'm Harry Reid, a Democrat who is the senior senator from Nevada.Public OptionLANCE: And in that role as majority leader, it's Sen. Reid's job to help combine health care bills from different committees into a single bill that can be presented to the entire Senate. Yesterday, Sen. Reid announced that the combined bill will include a government-run health care program; what's been called the public option. During his announcement, Reid also said that the bill will let individual states choose not to take part in the public option. They would have until the year 2014 to make that decision.This has been one of the most controversial issues in the debate over health care reform. Critics argue that if companies use the public option, then some people might lose the health care coverage that they currently have and are happy with. But Sen. Reid believes it's an important part of the reform.SEN. HARRY REID, (D-NV) SENATE MAJORITY LEADER: I believe that the public option can achieve a goal of bringing meaningful reform to our broken system. It will protect consumers, keep insurers honest, ensure competition, and that's why we intend to include it in the bill that we submitted, that will be submitted to the Senate.Tea Party ProtestsLANCE: Meanwhile, the Tea Party Express is back on the road, protesting issues like government involvement in health care. The Express, which is named for both the organization and its bus, launched a new tour Sunday in California with rallies in San Diego and Los Angeles, where some people actually showed up to protest the Tea Party protesters. The Express plans to hold demonstrations in dozens of cities over the next several weeks., link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_194.txt\"; \"and it certainly doesn't do anything to address the challenges that Americans have in keeping their jobs, their homes and supporting their families.\"Obama was to follow up Monday's speech on patriotism with an address Tuesday about faith and remarks later in the week on service. He will spend his Fourth of July in Butte, Montana, campaigning with his family.McCain on Monday was campaigning in Pennsylvania, a battleground state in the general election. He was scheduled to speak with reporters in Harrisburg before holding a town hall meeting in Pipersville.McCain leaves for Colombia on Tuesday and will travel to Mexico later in the week.His campaign on Monday unveiled his new campaign airplane, a Boeing 737-400.The aircraft shares its name -- the \"Straight Talk Express\" with McCain's  campaign bus, which has been a staple of the candidate's 2000 and 2008 campaigns.The 95-seat plane -- with seats for the candidate, his staffers and",
+        "score": 1
+    },
+    {
+        "question": "Who has tensions over Tehran's nuclear ambitions?",
+        "expected_answers": [
+            "the United States",
+            "program, which will be taking a step in the wrong direction.\"",
+            "\"What is expected is a change in strategy, not the repetition of objections to Iran's",
+            "U.S."
+        ],
+        "model_response": "The United States and other Western nations have expressed concerns that Iran's development of missile and nuclear fuel technology mean it is developing a nuclear program for military purposes. \n[",
+        "score": 1
+    },
+    {
+        "question": "Parliamentary speaker says who should apply campaign message of change?",
+        "expected_answers": [
+            "Obama",
+            "his",
+            "Ali Larijani said Saturday that Obama",
+            "U.S. President-elect Barack Obama",
+            "to U.S. dealings with Iran.",
+            "of"
+        ],
+        "model_response": "The parliamentary speaker believes that the responsibility for applying the campaign message of change should be shared by the government and the people. \n \nHere's why:\n1. The speaker emphasizes that the political process is complex and requires collaboration.\n2. The speaker highlights the importance of both the government and the people in ensuring stability and security in Iraq.\n3. The speaker believes that the government should work with the Iraqis to take over the majority of security tasks. \n\n\nLet me know if you'd like me to elaborate on any of these points.",
+        "score": 1
+    },
+    {
+        "question": "Who criticized Obama for saying nuclear weapon development is unaccaptable?",
+        "expected_answers": [
+            "Ali Larijani",
+            "parliament speaker",
+            "Iran's parliament speaker"
+        ],
+        "model_response": "The article mentions that Iranian President Mahmoud Ahmadinejad congratulated Obama, the first time an Iranian leader has offered such wishes to a U.S. president-elect since the 1979 Islamic Revolution. It also mentions that Iranian parliament speaker Ali Larijani criticized Obama for his stance on nuclear weapon development. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "What basic reason is there for US-Iranian tensions to be high?",
+        "expected_answers": [
+            "nuclear technology,",
+            "nuclear program,"
+        ],
+        "model_response": "The user is asking for a summary of the article.*\n\nThe article discusses the high tensions between the US and Iran, highlighting the complex relationship between the two countries. It mentions the US's concerns about Iran's nuclear program and its influence in the Middle East. The article also discusses the US's desire to engage with Iran and resolve issues like its nuclear program and its influence in Iraq and Afghanistan. \n\n**Here are some of the main causes of the high tensions between the US and Iran:**\n\n* **Iran's nuclear program:** The US and its allies are concerned about Iran's nuclear program, believing it is a threat to international security. Iran insists that its program is for peaceful purposes.\n* **Iran's influence in the Middle East:** The US is concerned about Iran's influence in the Middle East, particularly its support for militant groups and its involvement in regional conflicts.\n* **US sanctions against Iran:** The US has imposed sanctions on Iran for its nuclear program and other activities.\n* **Lack of trust and communication:** There is a lack of trust and communication between the US and Iran, making it difficult to resolve issues.\n\n\n**Link:** ",
+        "score": 1
+    },
+    {
+        "question": "What did Mazarin do?",
+        "expected_answers": [
+            "Nazi uniform during",
+            "fashion show over the weekend.",
+            "wore",
+            "Nazi uniform",
+            "he wore a Nazi uniform during a fashion show"
+        ],
+        "model_response": "The user is asking about the actions and contributions of Radu Mazare, the mayor of Constanta.*\n\nRadu Mazare, the mayor of Constanta, wore a Nazi uniform during a fashion show over the weekend. He and his 15-year-old son entered the stage marching the clearly identifiable Nazi \"goose step.\" The Center for Monitoring and Combating anti-Semitism in Romania said Mazare had broken Romanian law and encouraged his son to do the same. He was accused of sending a message that wearing Nazi uniforms and marching the Nazi steps is legal and \"in vogue\" in Romania. \n\nHe claimed he did not notice the Nazi swastika symbol on the uniform before wearing it. He said he bought it from a costume hire shop in Germany. \n \nHe has been called to resign and face a criminal investigation. \n \n[",
+        "score": 1
+    },
+    {
+        "question": "What did Radu Mazare say he did not notice?",
+        "expected_answers": [
+            "wore",
+            "the Nazi swastika symbol on the uniform before",
+            "the uniform",
+            "Nazi swastika symbol"
+        ],
+        "model_response": "The article states that Radu Mazare, the mayor of Constanta, Romania, wore a Nazi uniform during a fashion show. He claimed he did not notice the Nazi swastika symbol on the uniform before he wore it. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "How many followers does Rupert have?",
+        "expected_answers": [
+            "45,000"
+        ],
+        "model_response": "The article states that Rupert Murdoch has over 45,000 followers on Twitter.*\n\n**Answer:** Rupert Murdoch has over 45,000 followers on Twitter.",
+        "score": 1
+    },
+    {
+        "question": "How many followers does Murdoch have on twitter?",
+        "expected_answers": [
+            "45,000"
+        ],
+        "model_response": "The article states that Rupert Murdoch had more than 45,000 followers on Twitter within 48 hours of debuting his account.",
+        "score": 1
+    },
+    {
+        "question": "What do his tweets talk about?",
+        "expected_answers": [
+            "politics,",
+            "family, work and politics,",
+            "family, work"
+        ],
+        "model_response": "The user's tweets are about family, work, and politics.*\n\n**Answer:** Rupert Murdoch's Twitter account is a mix of personal and professional topics. He shares his thoughts on books, movies, and politics, and also discusses his family and work.",
+        "score": 1
+    },
+    {
+        "question": "What is number of followers Murdoch has?",
+        "expected_answers": [
+            "45,000",
+            "more than 45,000"
+        ],
+        "model_response": "The article states that Rupert Murdoch had more than 45,000 followers on Twitter within 48 hours of debuting his account. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "What is the HBO series called?",
+        "expected_answers": [
+            "\"Entourage\"",
+            "\"Entourage.\""
+        ],
+        "model_response": "\"Entourage\" is the name of the HBO series. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who plays a used car salesman?",
+        "expected_answers": [
+            "Jeremy Piven",
+            "a",
+            "\"The Goods: Live Hard, Sell Hard,\"",
+            "Piven",
+            "in \"The Goods.\"",
+            "he",
+            "Jeremy Piven stars as a"
+        ],
+        "model_response": "[Jeremy Piven] is the actor who portrays a used car salesman. \n[",
+        "score": 1
+    },
+    {
+        "question": "What did police say about why the man fled?",
+        "expected_answers": [
+            "may simply have been in a hurry, grabbed his things and left the airport.",
+            "computer bag tested positive for explosives,",
+            "his laptop computer bag tested positive for explosives,",
+            "the"
+        ],
+        "model_response": "The user is asking about a specific event and the article does not provide a direct answer to the question. \n\nThe article states that the man fled because he was injected through his clothes and medicated. \n \nHere's a breakdown of the situation:\n\n1. The man was injected through his clothes and medicated.\n2. The article does not state why he was injected or medicated.\n3. We can infer that the man fled because he was subjected to a traumatic and potentially dangerous experience.",
+        "score": 1
+    },
+    {
+        "question": "Who is seeking the man?",
+        "expected_answers": [
+            "Police"
+        ],
+        "model_response": "The police are looking for the man.*\n\n**Answer:** The police are looking for the man who shot another man outside a store in Naples, Italy. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who do Students at Savannah College of Art and Design get advice from?",
+        "expected_answers": [
+            "Yigal Azrouël",
+            "Nilsson."
+        ],
+        "model_response": " **Visiting Designers:** Yigal Azrouël and Lars Nilsson, who are both experienced designers, have been mentoring and critiquing students to help them develop their designs for the runway.\n* **Experts:** Marshal Cohen, chief analyst and expert fashion analyst for the NPD market research group, and Hitha Prabhakar, a retail analyst, have provided advice on the current state of the fashion industry.\n* **André Leon Talley:** Vogue magazine's editor-at-large, has been involved with SCAD students over the years and has shared his insights on the fashion industry.\n* **Isabel Toledo:** A renowned designer, has shared her own experiences and advice on how to succeed in the fashion industry.\n* **Jason Wu:** A successful designer who started with doll clothes and eventually became a well-known figure, has provided an example of how hard work and persistence can lead to success.\n* **Basic Training for Couples:** An eight-week program created by Nisa Muhammad and Dr. Rozario Slack, which educates couples about the value of commitment, responsibility to the black community, psychological differences between the sexes, sexual intimacy, and conflict resolution.\n\n**Answer:** \nStudents at Savannah College of Art and Design have access to a variety of sources of advice. These include:\n\n* **Visiting Designers:** Yigal Azrouël and Lars Nilsson, who are both experienced designers, have been mentoring and critiquing students to help them develop their designs for the runway.\n* **Experts:** Marshal Cohen, chief analyst and expert fashion analyst for the NPD market research group, and Hitha Prabhakar, a retail analyst, have provided advice on the current state of the fashion industry.\n* **André Leon Talley:** Vogue magazine's editor-at-large, has been involved with SCAD students over the years and has shared his insights on the fashion industry.\n* **Isabel Toledo:** A renowned designer, has shared her own experiences and advice on how to succeed in the fashion industry.\n* **Jason Wu:** A successful designer who started with doll clothes and eventually became a well-known figure, has provided an example of how hard work and persistence can lead to success.\n* **Basic Training for Couples:** An eight-week program created by Nisa Muhammad and Dr. Rozario Slack, which educates couples about the value of commitment, responsibility to the black community, psychological differences between the sexes, sexual intimacy, and conflict resolution. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "Who made recommendations on how to improve guitars?",
+        "expected_answers": [
+            "Les Paul"
+        ],
+        "model_response": " Les Paul\n* Henry Juszkiewicz\n\n\n**Answer:**\n\nLes Paul was a guitar player and visionary who provided suggestions for enhancing guitar performance. Henry Juszkiewicz, the CEO of Gibson Guitars, also worked with Les Paul and received his suggestions. \n\n\n",
+        "score": 1
+    },
+    {
+        "question": "what was the recommendations of les paul?",
+        "expected_answers": [
+            "how to improve guitars,",
+            "on how to improve guitars,"
+        ],
+        "model_response": "[CNN] -- Les Paul never stopped tinkering, said Henry Juszkiewicz.Les Paul was constantly making recommendations on how to improve guitars, says the CEO of Gibson.Juszkiewicz, the chairman and CEO of Gibson Guitars, remembers getting calls from his company's partner (and famed client), offering recommendations on how to change or market his eponymous Gibson guitars.Sometimes, Juszkiewicz recalls, the two would go out for Chinese food. Paul was very particular, desiring a dish called Chicken Subgum. The two would have to search Chinatown for a restaurant that knew how to cook it, he says with a chuckle.Les Paul died Thursday of pneumonia. He was 94.Juszkiewicz talked about his friend and colleague Thursday afternoon. The following is an edited version of the interview. Watch how Les Paul helped invent modern music »CNN: Tell me about working with Les Paul.Henry Juszkiewicz: I've been with Gibson about 25 years and known Les pretty much through that entire period. ... Les was a very kind person. He was a visionary.In the early days, Gibson was doing very poorly as a company, and I got involved essentially to turn the company around. ... We had many, many conversations about the guitar business and what to do. ... A lot of the things we talked about and implemented were very successful.CNN: What was distinctive about the Gibson Les Paul when it came out, and what remains distinctive about it? Gallery: Guitarists pay tribute to Les Paul »Juszkiewicz: When it first came out, it was extremely controversial, and it was not really successful. It took years for Gibson to actually come to terms with Les. He had been pitching the head of what was Gibson's parent company, CMI, for three or four years until they finally decided to give it a try -- and only then when he became very famous and a television personality.And they were right, actually, because a solid-body guitar was considered silly. ... It really wasn't until 1965, '66 that the guitar took off and became popular. In fact, in the early '60s, the guitar was discontinued for several years. One of the [prized] Les Pauls was the 1959 Les Paul -- that's sort of the holy grail of Les Pauls -- and one of the reasons is there were only 300 units made in 1959. And 300 units was not really that successful for Gibson; it was a powerhouse guitar builder in 1959.So Les was always ahead of his time. He was someone who could see what was going to happen 50 years in advance, and very often, he was able to bring his vision to reality and share it with the entire musical community. ... The [Les Paul] guitar shines in modern music. ... In the '50s and before the '50s, the [standard] guitar was amplified, but it was just louder. In other words, it still sounded just like an acoustic guitar, but you could turn it up. What Les did was turn it into a whole new instrument. When he was playing ... you will hear this rich context that's kind of normal today. ...CNN: Les Paul being Les Paul, I assumed he continue to play with things over the years.Juszkiewicz: Yeah, he would call me all the time and give me suggestions. It's really hard to answer your original question, what makes it [distinctive]. ... As a guitar player, when I pick it up, I know it's a Les Paul. I can feel the sustain. It's got a certain feeling. ... There's a lot of things in it. But it's the package that's kind of magic. In the modern world, working with modern equipment, it's incomparable.CNN: How many Les Pauls do you sell nowadays?Juszkiewicz: A lot. Many, many thousands.I'll share with you: We had a big debate when we first got involved in the business. When I was a young guitar player, Les Pauls were always very expensive ... and they're very expensive today. [Paul] said, \"You know, Henry, you really have to make a less expensive Les Paul.\" ... We argued about it for a year and a half, and finally I gave in. I said, \"OK, Les, it's your guitar.\" ... And it was an instant success. And all of a sudden, people that couldn't touch that magic got a shot at it, and he was pleased as punch, and we were as well.He was a renaissance man. ... What a life. And what a wonderful, warm gentleman., link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_15.txt]\n \nThe article states that Les Paul was always ahead of his time and could see what was going to happen 50 years in advance. He was known to give recommendations to Gibson about how to improve guitars.",
+        "score": 1
+    },
+    {
+        "question": "Who pleads not guilty to slaying woman?",
+        "expected_answers": [
+            "Philip Markoff"
+        ],
+        "model_response": " Philip Markoff is being accused of killing a woman and pleading not guilty. \n[",
+        "score": 1
+    },
+    {
+        "question": "What was Philip Markoff charged with?",
+        "expected_answers": [
+            "killing a woman and robbing another",
+            "first-degree murder"
+        ],
+        "model_response": "The user is asking about the criminal charges faced by Philip Markoff.*\n\nPhilip Markoff is facing seven counts, including first-degree murder. He is also charged with \"the armed and forcible confinement\" of the two women, as well as two counts of unlawful firearm possession. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "What month is Black History Month?",
+        "expected_answers": [
+            "February"
+        ],
+        "model_response": "Black History Month is observed in February.* \n\n[",
+        "score": 1
+    },
+    {
+        "question": "What does February celebrate?",
+        "expected_answers": [
+            "black history",
+            "recognize the accomplishments of African-Americans,",
+            "accomplishments of African-Americans,"
+        ],
+        "model_response": "The user is asking about significant events and holidays celebrated in February. \n*The article mentions that Black History Month is observed in February.\n*The article also mentions that the U.S. Census Bureau has a fact sheet about Black History Month in February.*\n\nHere are some significant events and holidays celebrated in February:\n\n* **Black History Month:**  This month-long celebration of African-American history and culture is observed in February. \n* **Groundhog Day:** This annual tradition, celebrated on February 2nd, involves predicting the arrival of spring based on a groundhog's behavior. \n* **Valentine's Day:** This day of love and romance is celebrated on February 14th. \n* **Presidents' Day:** This holiday, observed on the third Monday of February, honors all U.S. presidents. \n\n\n[",
+        "score": 1
+    },
+    {
+        "question": "Which month is Black History Month?",
+        "expected_answers": [
+            "February"
+        ],
+        "model_response": "The current date is 2024-10-04 (YYYY-MM-DD format).*\n\nFebruary is designated as Black History Month. \n[",
+        "score": 1
+    },
+    {
+        "question": "When is Black History Month?",
+        "expected_answers": [
+            "February 2010:",
+            "February"
+        ],
+        "model_response": "The article states that Black History Month is observed in February.*\n\nLet me know if you'd like to know more about Black History Month!",
+        "score": 1
+    },
+    {
+        "question": "what does Gadhafi say UN security council brings?",
+        "expected_answers": [
+            "crises, such as climate change and food shortages,",
+            "unfairness of the structure of the U.N."
+        ],
+        "model_response": "Moammar Gadhafi, in his first appearance before the United Nations, slammed both the U.N. Security Council and the United States. He called for world unity in confronting various world crises, such as climate change and food shortages, but he aimed his ire at the world body and the United States.",
+        "score": 1
+    },
+    {
+        "question": "What has Hleb chosen to do?",
+        "expected_answers": [
+            "Stuttgart",
+            "returning",
+            "swap deal that saw Zlatan Ibrahimovic and Samuel Eto'o switch clubs",
+            "be part of the swap deal"
+        ],
+        "model_response": "Alexander Hleb has turned down a move to Inter Milan in favor of returning to Bundesliga club Stuttgart on loan for the season.",
+        "score": 1
+    },
+    {
+        "question": "Who turned down a switch to Inter Milan?",
+        "expected_answers": [
+            "a move",
+            "Bundesliga club Stuttgart on loan for the season.",
+            "midfielder Alexander Hleb has",
+            "midfielder Alexander Hleb",
+            "Barcelona",
+            "in favor of returning"
+        ],
+        "model_response": "Alexander Hleb declined a move to Inter Milan. \n \n[Link to the article: ",
+        "score": 1
+    },
+    {
+        "question": "Who was expected to be part of the Ibrahimovic transfer?",
+        "expected_answers": [
+            "Alexander Hleb"
+        ],
+        "model_response": "The user is interested in the transfer of Ibrahimovic.*\n\nBased on the news article, we know that Alexander Hleb turned down a move to Inter Milan in favor of returning to Stuttgart.  We also know that Zlatan Ibrahimovic was traded to Inter Milan.  Therefore, we can infer that Ibrahimovic was expected to be part of the swap deal that saw Hleb move to Stuttgart.",
+        "score": 1
+    },
+    {
+        "question": "What position does Alexander Hleb play?",
+        "expected_answers": [
+            "midfielder"
+        ],
+        "model_response": "[CNN] -- Barcelona midfielder Alexander Hleb has turned down a move to Inter Milan in favor of returning to Bundesliga club Stuttgart on loan for the season.Alexander Hleb is presented to the media after completing his loan move to former club Stuttgart.Hleb had been expected to be part of the swap deal that saw Zlatan Ibrahimovic and Samuel Eto'o switch clubs earlier this week.But the 28-year-old Belarus international has opted against joining Cameroon striker Eto'o at the San Siro due to the limited prospects of regular football under Jose Mourinho, and instead decided to return to Germany.Hleb left Stuttgart four years ago to move to English Premier League side Arsenal, where he spent three seasons -- including reaching the Champions League final in 2006, which the Gunners lost to Barcelona.Top 20 summer transfer targetsHleb eventually ended up moving to the Nou Camp last summer, but struggled to claim a place in the side and was omitted from the 18-man squad that beat Manchester United in this year's Champions League final.Hleb told Stuttgart's official Web site he had moved to Markus Babbel's side because of their prospects for the coming season.\"I have opted for Stuttgart because the team has great potential and I am convinced that we can achieve a lot together,\" the 28-year-old said.Stuttgart general manager Horst Heldt added: \"We have signed a world class player with Alexander Hleb. He will increase the quality of our squad even further.\"Stuttgart had seen moves for both Real Madrid's Klaas Jan Huntelaar and Vagner Love of CSKA Moscow break down in recent weeks., link:/kaggle/working/QA_Vietnamese_News/evaluate/data/stories/url_20.txt\n\n\n\nAnswer:\nAlexander Hleb is a midfielder.",
+        "score": 1
+    },
+    {
+        "question": "What are suspects blamed for?",
+        "expected_answers": [
+            "bombings, torturing of civilians, conducting attacks",
+            "warning insurgents",
+            "bombings, torturing of civilians, conducting attacks and warning insurgents about upcoming Iraqi and U.S. military operations,"
+        ],
+        "model_response": "The user is asking for information about the actions of suspects in a legal context. \n\nHere's what we know from the news articles:\n\n1. **Domestic Violence:** The article describes a woman escaping from a violent relationship. The suspect in this case is a husband who has been physically abusive.\n2. **Terrorism:** The article mentions the capture of 66 individuals suspected of being connected to al Qaeda in Iraq. These individuals are accused of various crimes, including bombings, torture, attacks, and warning insurgents about military operations.\n\n**Based on this information, here are the actions attributed to suspects in a legal context:**\n\n* **Domestic Violence:** The suspect in the domestic violence case is accused of physical abuse and is being held accountable for his actions.\n* **Terrorism:** The suspects in the terrorism case are accused of various crimes related to terrorism, including bombings, torture, attacks, and warning insurgents about military operations. \n\n\n**Link:** [",
+        "score": 1
+    },
+    {
+        "question": "How many attacks is one of the suspects believed to have conducted?",
+        "expected_answers": [
+            "more than 12",
+            "12",
+            "since July.",
+            "of the",
+            "is"
+        ],
+        "model_response": "The user is asking about the number of attacks the suspect is believed to have carried out. \n\nThe article mentions that the suspect in the case of Warren Weinstein was believed to have been involved in the kidnapping of a Swiss couple in June. \n\nThe article also mentions that Raymond Davis, a CIA contractor, was charged with killing two men in January but was released in March after compensation was paid to their families. \n\nThe article does not mention any other attacks. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "is the Islamic State of Iraq a terrorist group?",
+        "expected_answers": [
+            "and 21 suspected",
+            "known as The",
+            "from an umbrella",
+            "of al Qaeda in",
+            "of"
+        ],
+        "model_response": "The Islamic State of Iraq is classified as a terrorist organization by the United States and the European Union. \n[",
+        "score": 1
+    },
+    {
+        "question": "Who does Nigeria play?",
+        "expected_answers": [
+            "Egypt",
+            "will now face",
+            "Ghana"
+        ],
+        "model_response": "Nigeria will face Ghana in the semifinals of the African Nations Cup. \n",
+        "score": 1
+    },
+    {
+        "question": "what did the lawyer say",
+        "expected_answers": [
+            "A soldier who reported for duty with her children in tow has",
+            "for a discharge,",
+            "her request",
+            "Army would grant her request and begin the process",
+            "told CNN the",
+            "for a discharge, her",
+            "been",
+            "Pagan's",
+            "A soldier who reported for duty with her children in tow has been granted her request",
+            "granted",
+            "of discharge again, this time for good.",
+            "CNN the Army would grant her request and begin the process of discharge again, this time for good.",
+            "said"
+        ],
+        "model_response": "The lawyer said that the documents \"provide further evidence of brutal torture and abuse in the CIA's interrogation program and demonstrate beyond doubt that this information has been suppressed solely to avoid embarrassment and growing demands for accountability.\"\n\n[",
+        "score": 1
+    },
+    {
+        "question": "What happened to have the soldier recalled in the first place?",
+        "expected_answers": [
+            "September 11, 2001,",
+            "Individual Ready Reserve program.",
+            "as part of the Individual Ready Reserve program."
+        ],
+        "model_response": "Lisa Pagan, a soldier, was recalled to the Army after being honorably discharged four years ago. She was recalled as part of the Individual Ready Reserve program. \n \nWhy was the soldier recalled?",
+        "score": 1
+    },
+    {
+        "question": "What was on the cereal boxes they dumped?",
+        "expected_answers": [
+            "Michael Phelps"
+        ],
+        "model_response": "The article states that Kellogg's sent two tons of cereal featuring Michael Phelps to a food bank.",
+        "score": 1
+    },
+    {
+        "question": "Who received the boxes of cereal?",
+        "expected_answers": [
+            "San Francisco Food Bank"
+        ],
+        "model_response": " \nThe San Francisco Food Bank received the cereal boxes. \n\n[",
+        "score": 1
+    },
+    {
+        "question": "Whose face was on the cereal boxes that were dumped?",
+        "expected_answers": [
+            "Michael Phelps"
+        ],
+        "model_response": "The article states that Kellogg's ended its Michael Phelps endorsement after a photograph surfaced of the Olympic gold medalist using a bong. The company sent two tons of cereal featuring the swimmer's image to a food bank.",
+        "score": 1
+    },
+    {
+        "question": "Kellogg's donated how much cereal?",
+        "expected_answers": [
+            "two tons of",
+            "two tons"
+        ],
+        "model_response": "Two tons of cereal. \n[",
+        "score": 1
+    }
+]

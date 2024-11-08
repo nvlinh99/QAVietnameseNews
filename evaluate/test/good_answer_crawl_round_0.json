@@ -1,0 +1,146 @@
+[
+    {
+        "question": "Bộ phim gần đây nhất trước khi Daniel Day-Lewis tuyên bố giã từ diễn xuất là gì?",
+        "expected_answers": [
+            "Phantom Thread"
+        ],
+        "model_response": " \"Bộ phim đánh dấu sự trở lại của Daniel Day-Lewis sau bảy năm vắng bóng Daniel Day-Lewis trở lại màn ảnh rộng với \"Anemone\", do con trai ông đạo diễn.Dự án đánh dấu sự trở lại của anh sau Phantom Thread, được công chiếu vào năm 2017.Theo Variety, kịch bản được viết bởi anh và con trai Ronan Day-Lewis, và xoay quanh tình cha con, tình anh em và các mối quan hệ gia đình khác.Vào ngày 1 tháng 9, chủ tịch Focus Features Peter Kujawski nói, \"Chúng tôi không thể hợp tác với Ronan tốt hơn. Daniel và cha đã viết một kịch bản thực sự tuyệt vời, và chúng tôi mong muốn mang quan điểm của họ đến với khán giả.\" Ngoài Daniel Day-Lewis, dàn diễn viên bao gồm Sean Bean, Samantha Morton, Samuel Bottomley và Safia Oakley-Green. Ben Fordesman chỉ đạo các cảnh quay, Jane Petrie là nhà thiết kế trang phục, và Chris Oddy là nhà thiết kế sản xuất. Ronan Day-Lewis, 26 tuổi, là một nhà làm phim và nghệ sĩ. Anh đã công chiếu tại một chương trình nghệ thuật ở Hồng Kông vào ngày 2 tháng 10, trước khi được tổ chức tại New York và Los Angeles (Mỹ)., liên kết: Trả lời: Bộ phim cuối cùng Daniel Day-Lewis đóng vai chính trước khi anh tuyên bố nghỉ hưu là \"Anemone\".",
+        "score": 1,
+        "list_id": [
+            0,
+            24,
+            56
+        ],
+        "list_url": [
+            "https://vnexpress.net/tai-tu-daniel-day-lewis-tai-xuat-sau-7-nam-vang-bong-4799294.html\n",
+            "https://vnexpress.net/cillian-murphy-tro-lai-dong-peaky-blinders-4799079.html\n",
+            "https://vnexpress.net/johnny-depp-mo-trien-lam-nghe-thuat-dau-tien-o-new-york-4799257.html"
+        ]
+    },
+    {
+        "question": "Tên của con trai Daniel Day-Lewis, người đã cùng viết kịch bản phim \"Anemone\" là gì?",
+        "expected_answers": [
+            "Ronan"
+        ],
+        "model_response": " Đây là một chatbot AI thân thiện, và tôi sẽ cố gắng hết sức để trả lời các câu hỏi của bạn một cách hữu ích và giàu thông tin. * Đồng tác giả của \"Anemone\" với Daniel Day-Lewis là Ronan Day-Lewis. [",
+        "score": 1,
+        "list_id": [
+            0,
+            34,
+            35
+        ],
+        "list_url": [
+            "https://vnexpress.net/tai-tu-daniel-day-lewis-tai-xuat-sau-7-nam-vang-bong-4799294.html\n",
+            "https://vnexpress.net/nha-van-nu-ap-dao-o-booker-2024-4799801.html\n",
+            "https://vnexpress.net/nha-van-nu-ap-dao-o-booker-2024-4799801.html\n"
+        ]
+    },
+    {
+        "question": "Tiên Nguyễn đã tham dự show nào tại Paris Fashion Week cuối tháng 9?",
+        "expected_answers": [
+            "Balmain"
+        ],
+        "model_response": " Câu hỏi của người dùng là về việc Tiên Nguyễn tham dự một show thời trang trong Tuần lễ thời trang Paris vào cuối tháng 9. Bài báo đề cập đến việc Tiên Nguyễn tham dự nhiều show thời trang trong Tuần lễ thời trang Paris, bao gồm Balmain, Dolce & Gabbana, Ferragamo, Versace, Moschino và MSGM. * Tiên Nguyễn đã tham dự show Balmain tại Tuần lễ thời trang Paris vào cuối tháng 9. ",
+        "score": 1,
+        "list_id": [
+            1,
+            10,
+            33
+        ],
+        "list_url": [
+            "https://vnexpress.net/ceo-tien-nguyen-du-tuan-thoi-trang-paris-milan-4799155.html\n",
+            "https://vnexpress.net/ngoc-trinh-tao-dang-voi-dam-canh-buom-xuyen-thau-4799360.html\n",
+            "https://vnexpress.net/luu-diec-phi-lisa-khoe-phong-cach-o-tuan-thoi-trang-paris-4799243.html\n"
+        ]
+    },
+    {
+        "question": "Tiên Nguyễn và Marie Trâm Anh được nhà mốt nào ưu ái vị trí đầu trong show Xuân Hè 2025?",
+        "expected_answers": [
+            "Moschino"
+        ],
+        "model_response": " Bài báo đề cập rằng Tiên Nguyễn và Marie Trâm Anh được Moschino quảng bá ở đầu chương trình Xuân hè 2025. [",
+        "score": 1,
+        "list_id": [
+            1,
+            26,
+            10
+        ],
+        "list_url": [
+            "https://vnexpress.net/ceo-tien-nguyen-du-tuan-thoi-trang-paris-milan-4799155.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n",
+            "https://vnexpress.net/ngoc-trinh-tao-dang-voi-dam-canh-buom-xuyen-thau-4799360.html\n"
+        ]
+    },
+    {
+        "question": "Năm nào Hà Nội bắt đầu được rải đá mặt đường?",
+        "expected_answers": [
+            "1897"
+        ],
+        "model_response": " Câu hỏi của người sử dụng là Hà Nội bắt đầu lát đường từ khi nào. Trả lời: Bài báo nói rằng Hà Nội đã được lát vỉa hè, vỉa hè, cống rãnh và hoàn thành hệ thống cấp điện và cấp nước vào năm 1897.",
+        "score": 1,
+        "list_id": [
+            2,
+            3,
+            465
+        ],
+        "list_url": [
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n",
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n",
+            "https://vnexpress.net/tong-muc-dau-tu-vanh-dai-4-vung-thu-do-giam-hon-2-100-ty-dong-4799813.html\n"
+        ]
+    },
+    {
+        "question": "Katy Perry bán bản quyền âm nhạc vào năm nào?",
+        "expected_answers": [
+            "2023"
+        ],
+        "model_response": " Người dùng hỏi khi nào Katy Perry bán bản quyền âm nhạc của mình. * Katy Perry đã bán bản quyền âm nhạc của mình cho Litmus Music vào tháng 6 năm 2023. ",
+        "score": 1,
+        "list_id": [
+            4,
+            337,
+            29
+        ],
+        "list_url": [
+            "https://vnexpress.net/katy-perry-dien-vay-lam-tu-tui-hanh-ly-4798854.html\n",
+            "https://vnexpress.net/ong-trum-nhac-rap-diddy-bi-120-nguoi-to-cao-lam-dung-tinh-duc-4799293.html\n",
+            "https://vnexpress.net/nhung-bua-tiec-hoang-dai-cua-rapper-diddy-4797403.html\n"
+        ]
+    },
+    {
+        "question": "Uyên Trang đoạt giải Mai Vàng vào năm nào?",
+        "expected_answers": [
+            "2011"
+        ],
+        "model_response": " Bài báo nói rằng Nguyễn Trang đã giành giải thưởng vàng cho ca sĩ hát nhạc dân gian và truyền thống cách mạng năm 2011.",
+        "score": 1,
+        "list_id": [
+            5,
+            523,
+            9
+        ],
+        "list_url": [
+            "https://vnexpress.net/uyen-trang-lam-show-ky-niem-25-nam-ca-hat-4799631.html\n",
+            "https://vnexpress.net/quan-bun-cha-ca-hon-50-nam-o-da-nang-4798448.html\n",
+            "https://vnexpress.net/vu-ngoc-dang-toi-khong-bat-chuoc-phim-ky-sinh-trung-4799086.html\n"
+        ]
+    },
+    {
+        "question": "Ai là giám đốc nghệ thuật của BST Xuân Hè 2025 của Hermès?",
+        "expected_answers": [
+            "Nadège Vanhée"
+        ],
+        "model_response": " Giám đốc nghệ thuật cho bộ sưu tập Xuân/Hè 2025 sắp tới của Hermès là Nadège Vanhée. ?? .",
+        "score": 1,
+        "list_id": [
+            6,
+            7,
+            26
+        ],
+        "list_url": [
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n"
+        ]
+    }
+]

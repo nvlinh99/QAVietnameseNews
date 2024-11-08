@@ -1,0 +1,22 @@
+        "question": "Khi nào lễ trao giải Booker 2024 diễn ra?",
+        "expected_answers": [
+            "12/11"
+        ],
+        "model_response": " Lễ trao giải Booker Prize 2024 diễn ra vào tối ngày 12 tháng 11 tại London, Anh và được phát sóng trong tập đặc biệt Front Row trên BBC Radio 4 lúc 21:30. Trả lời: Lễ trao giải Booker Prize 2024 diễn ra vào ngày 12 tháng 11.",
+        "score": 0
+		
+		"question": "Barron Trump cao bao nhiêu mét?",
+        "expected_answers": [
+            "2,04"
+        ],
+        "model_response": " Bài báo nói rằng Barron Trump cao tám feet.",
+        "score": 0
+		
+		    {
+        "question": "Ai là bạn trai của Diệp Kha?",
+        "expected_answers": [
+            "Huỳnh Hiểu Minh"
+        ],
+        "model_response": " Huỳnh Hiểu Hoa, một chàng trai tài năng trong ngành giải trí Trung Quốc.",
+        "score": 0
+    },

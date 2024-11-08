@@ -1,0 +1,326 @@
+[
+    {
+        "question": "Daniel Day-Lewis đã giành được bao nhiêu giải Oscar cho Nam diễn viên chính xuất sắc?",
+        "expected_answers": [
+            "3"
+        ],
+        "model_response": " Bài viết này không đề cập đến số giải Oscar mà Daniel Day-Lewis giành được.",
+        "score": 0,
+        "list_id": [
+            0,
+            24,
+            56
+        ],
+        "list_url": [
+            "https://vnexpress.net/tai-tu-daniel-day-lewis-tai-xuat-sau-7-nam-vang-bong-4799294.html\n",
+            "https://vnexpress.net/cillian-murphy-tro-lai-dong-peaky-blinders-4799079.html\n",
+            "https://vnexpress.net/johnny-depp-mo-trien-lam-nghe-thuat-dau-tien-o-new-york-4799257.html"
+        ]
+    },
+    {
+        "question": "Tiên Nguyễn diện trang phục gì tại show Dolce & Gabbana ở Milan?",
+        "expected_answers": [
+            "Corset và quần shorts"
+        ],
+        "model_response": " Bài viết được cung cấp không chứa thông tin về trang phục cụ thể của Tiên Nguyễn tại buổi trình diễn thời trang Dolce & Gabbana ở Milan. ?? .",
+        "score": 0,
+        "list_id": [
+            1,
+            10,
+            26
+        ],
+        "list_url": [
+            "https://vnexpress.net/ceo-tien-nguyen-du-tuan-thoi-trang-paris-milan-4799155.html\n",
+            "https://vnexpress.net/ngoc-trinh-tao-dang-voi-dam-canh-buom-xuyen-thau-4799360.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n"
+        ]
+    },
+    {
+        "question": "Túp lều gianh cuối cùng ở phố Paul Bert bị phá hủy vào tháng nào?",
+        "expected_answers": [
+            "1/1888"
+        ],
+        "model_response": " Câu hỏi của người dùng là về ngày phá dỡ cuối cùng của một ngôi nhà trên phố Paul Bert. Bài viết bạn cung cấp không chứa câu trả lời cho câu hỏi của người dùng. liên kết: ?? .",
+        "score": 0,
+        "list_id": [
+            2,
+            501,
+            483
+        ],
+        "list_url": [
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n",
+            "https://vnexpress.net/ha-noi-mat-mua-cuc-hoa-mi-4796765.html\n",
+            "https://vnexpress.net/nguoi-dan-hoi-an-chua-man-ma-don-khach-an-o-cung-4798884.html\n"
+        ]
+    },
+    {
+        "question": "Ai là người thiết kế cầu Long Biên?",
+        "expected_answers": [
+            "Daydé và Pillé"
+        ],
+        "model_response": " Văn bản được cung cấp không chứa câu trả lời cho câu hỏi của bạn. * Gia Minh. liên kết:",
+        "score": 0,
+        "list_id": [
+            94,
+            447,
+            409
+        ],
+        "list_url": [
+            "https://vnexpress.net/khoi-cong-5-cau-hy-vong-o-mien-tay-4799564.html\n",
+            "https://vnexpress.net/khoi-cong-5-cau-hy-vong-o-mien-tay-4799564.html\n",
+            "https://vnexpress.net/thong-xe-cau-hon-700-ty-giam-ket-xe-cua-ngo-phia-dong-tp-hcm-4799206.html\n"
+        ]
+    },
+    {
+        "question": "Bà Đào Thị Diến đã tốt nghiệp chuyên ngành nào?",
+        "expected_answers": [
+            "Sử Thế giới"
+        ],
+        "model_response": " Câu hỏi của người dùng là về Dao Thị Wai, không phải Dao Văn Hùng. * Bài báo mà bạn cung cấp không đề cập gì đến giáo dục hoặc đại học của Dao Thị Wai. Vì vậy, tôi xin lỗi nhưng tôi không có đủ thông tin để tìm thông tin này. [",
+        "score": 0,
+        "list_id": [
+            373,
+            282,
+            3
+        ],
+        "list_url": [
+            "https://vnexpress.net/chem-ba-me-con-hang-xom-tu-mau-thuan-dut-day-internet-4799292.html\n",
+            "https://vnexpress.net/so-sinh-vien-bach-khoa-ha-noi-tot-nghiep-cao-ky-luc-4798165.html\n",
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n"
+        ]
+    },
+    {
+        "question": "Trung tâm Lưu trữ Quốc gia I chọn công ty nào làm nhà thầu chính thức?",
+        "expected_answers": [
+            "Daydé và Pillé"
+        ],
+        "model_response": " Đây là một câu trả lời mẫu và nên được sử dụng như một hướng dẫn. Bạn có thể điều chỉnh câu trả lời cho phù hợp với bài viết cụ thể và truy vấn của người dùng. * Bài viết không đề cập đến nhà thầu cụ thể được chọn cho dự án chính thức.",
+        "score": 0,
+        "list_id": [
+            115,
+            361,
+            342
+        ],
+        "list_url": [
+            "https://vnexpress.net/dan-chung-cu-ha-noi-chat-vat-sua-nha-sau-bao-yagi-4799527.html\n",
+            "https://vnexpress.net/ba-truong-my-lan-muon-dung-sieu-du-an-khu-tu-giac-khac-phuc-cho-trai-chu-4796395.html\n",
+            "https://vnexpress.net/doanh-nghiep-bi-buoc-tra-gan-25-ty-dong-tien-nuoc-4798897.html\n"
+        ]
+    },
+    {
+        "question": "Bà Đào Thị Diến sinh ra và lớn lên ở đâu?",
+        "expected_answers": [
+            "Hà Nội"
+        ],
+        "model_response": " Bài báo không đề cập đến nơi Đào Thị Dương lớn lên.",
+        "score": 0,
+        "list_id": [
+            3,
+            2,
+            232
+        ],
+        "list_url": [
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n",
+            "https://vnexpress.net/dien-mao-ha-noi-thoi-can-dai-qua-sach-4798290.html\n",
+            "https://vnexpress.net/nu-sinh-loi-nguoc-dong-gianh-hoc-bong-chinh-phu-singapore-4798784.html\n"
+        ]
+    },
+    {
+        "question": "Katy Perry mặc váy làm từ gì tại show Balenciaga Xuân Hè 2025?",
+        "expected_answers": [
+            "Túi hành lý"
+        ],
+        "model_response": " ",
+        "score": 0,
+        "list_id": [
+            4,
+            27,
+            26
+        ],
+        "list_url": [
+            "https://vnexpress.net/katy-perry-dien-vay-lam-tu-tui-hanh-ly-4798854.html\n",
+            "https://vnexpress.net/selena-gomez-dien-vay-xe-nguc-cua-cong-tri-4799271.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n"
+        ]
+    },
+    {
+        "question": "Katy Perry dự show Balenciaga Xuân Hè 2025 tại đâu?",
+        "expected_answers": [
+            "Paris"
+        ],
+        "model_response": " ",
+        "score": 0,
+        "list_id": [
+            4,
+            26,
+            27
+        ],
+        "list_url": [
+            "https://vnexpress.net/katy-perry-dien-vay-lam-tu-tui-hanh-ly-4798854.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n",
+            "https://vnexpress.net/selena-gomez-dien-vay-xe-nguc-cua-cong-tri-4799271.html\n"
+        ]
+    },
+    {
+        "question": "Uyên Trang tổ chức show kỷ niệm bao nhiêu năm ca hát?",
+        "expected_answers": [
+            "25"
+        ],
+        "model_response": " Xin lưu ý rằng đây là một phản hồi mẫu và có thể không phù hợp với mọi tình huống. * Bài viết bạn cung cấp không chứa bất kỳ thông tin nào về chương trình của Ernie.",
+        "score": 0,
+        "list_id": [
+            363,
+            5,
+            29
+        ],
+        "list_url": [
+            "https://vnexpress.net/so-phan-trai-nguoc-cua-hai-anh-em-nguoi-hung-va-ac-quy-4799516.html\n",
+            "https://vnexpress.net/uyen-trang-lam-show-ky-niem-25-nam-ca-hat-4799631.html\n",
+            "https://vnexpress.net/nhung-bua-tiec-hoang-dai-cua-rapper-diddy-4797403.html\n"
+        ]
+    },
+    {
+        "question": "Show kỷ niệm của Uyên Trang được tổ chức ở đâu?",
+        "expected_answers": [
+            "Phòng trà TP HCM"
+        ],
+        "model_response": " Bài báo nói rằng Uyên Trang đang biểu diễn ở một quán trà ở TP HCM.",
+        "score": 0,
+        "list_id": [
+            5,
+            13,
+            538
+        ],
+        "list_url": [
+            "https://vnexpress.net/uyen-trang-lam-show-ky-niem-25-nam-ca-hat-4799631.html\n",
+            "https://vnexpress.net/don-vi-dua-tin-huong-tram-sinh-con-bi-phat-10-trieu-dong-4799194.html\n",
+            "https://vnexpress.net/330-tan-thuc-pham-mien-phi-dai-khach-du-le-gio-nguyen-trung-truc-4797930.html\n"
+        ]
+    },
+    {
+        "question": "BST Xuân Hè 2025 của Hermès tập trung vào chất liệu gì?",
+        "expected_answers": [
+            "Da thuộc"
+        ],
+        "model_response": " Chủ đề hoặc trọng tâm của bộ sưu tập Xuân/Hè 2025 của Hermès tập trung vào việc tôn vinh di sản da của thương hiệu này. [",
+        "score": 0,
+        "list_id": [
+            7,
+            6,
+            26
+        ],
+        "list_url": [
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n"
+        ]
+    },
+    {
+        "question": "Hermès đã hoạt động được gần bao nhiêu năm?",
+        "expected_answers": [
+            "200"
+        ],
+        "model_response": " Hermès đã kinh doanh từ năm 1837.",
+        "score": 0,
+        "list_id": [
+            6,
+            7,
+            212
+        ],
+        "list_url": [
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/giai-bong-ro-thpt-ha-noi-co-chat-luong-chuyen-mon-cao-4799497.html\n"
+        ]
+    },
+    {
+        "question": "BST Xuân Hè 2025 của Hermès tập trung vào hình ảnh của ai?",
+        "expected_answers": [
+            "Người phụ nữ"
+        ],
+        "model_response": " Chủ đề của bộ sưu tập Xuân/Hè 2025 của Hermès tập trung vào di sản da phong phú của thương hiệu. Bộ sưu tập có đặc điểm là da mềm, nhẹ làm yếu tố trung tâm, tạo ra hiệu ứng \"da thứ hai\" cho người mặc. Bộ sưu tập cũng kết hợp các yếu tố nữ tính truyền thống như nhẹ, nữ tính và sexy, tập trung vào việc tạo ra mối liên hệ tự nhiên giữa quần áo và người mặc.",
+        "score": 0,
+        "list_id": [
+            7,
+            6,
+            26
+        ],
+        "list_url": [
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/nhung-thiet-ke-mac-nhu-khong-tren-san-catwalk-4799934.html\n"
+        ]
+    },
+    {
+        "question": "Hermès được phân phối chính thức bởi công ty nào tại Việt Nam?",
+        "expected_answers": [
+            "Quốc tế Tam Sơn"
+        ],
+        "model_response": " Người dùng hỏi: Nhà phân phối chính thức của Hermès tại Việt Nam là gì? Trả lời: Nhà phân phối chính thức của Hermès tại Việt Nam là công ty Tam Sơn International. [",
+        "score": 0,
+        "list_id": [
+            212,
+            7,
+            1
+        ],
+        "list_url": [
+            "https://vnexpress.net/giai-bong-ro-thpt-ha-noi-co-chat-luong-chuyen-mon-cao-4799497.html\n",
+            "https://vnexpress.net/hermes-ton-vinh-di-san-che-tac-da-qua-bst-xuan-he-2025-4799096.html\n",
+            "https://vnexpress.net/ceo-tien-nguyen-du-tuan-thoi-trang-paris-milan-4799155.html\n"
+        ]
+    },
+    {
+        "question": "Đạo diễn Vũ Ngọc Đãng đã phủ nhận điều gì khi phim mới bị so sánh với \"Parasite\"?",
+        "expected_answers": [
+            "Sao chép ý tưởng"
+        ],
+        "model_response": " Người dùng hỏi Vũ Ngọc Trai nói gì khi so sánh giữa bộ phim mới của mình và bộ phim \"Ký sinh trùng\"? Câu trả lời không thể chấp nhận được khi bạn không thể tìm thấy thông tin liên quan là \"Xin lỗi nhưng tôi không có đủ thông tin để tìm thông tin này\". NẾU ĐIỀU ĐÃ LIÊN KẾT, BẠN PHẢI LIÊN KẾT ĐIỀU ĐẾN GIAI ĐOẠN CỦA BẠN. * Đạo diễn nói rằng sự tương đồng",
+        "score": 0,
+        "list_id": [
+            9,
+            369,
+            20
+        ],
+        "list_url": [
+            "https://vnexpress.net/vu-ngoc-dang-toi-khong-bat-chuoc-phim-ky-sinh-trung-4799086.html\n",
+            "https://vnexpress.net/cach-ba-pho-giam-doc-so-nhan-hoi-lo-de-bo-tri-noi-cach-ly-covid-19-4799797.html\n",
+            "https://vnexpress.net/quoc-cuong-toi-hai-long-voi-cuoc-song-doc-than-4798258.html\n"
+        ]
+    },
+    {
+        "question": "Ai là nhân vật chính trong phim \"Cô dâu hào môn\"?",
+        "expected_answers": [
+            "Tú Lạc"
+        ],
+        "model_response": " Bài viết được cung cấp không chứa câu trả lời cho câu hỏi của bạn.",
+        "score": 0,
+        "list_id": [
+            43,
+            9,
+            38
+        ],
+        "list_url": [
+            "https://vnexpress.net/jang-dong-gun-tai-xuat-sau-scandal-ngoai-tinh-4799758.html\n",
+            "https://vnexpress.net/vu-ngoc-dang-toi-khong-bat-chuoc-phim-ky-sinh-trung-4799086.html\n",
+            "https://vnexpress.net/le-khanh-dien-dam-duoi-ca-cam-hung-dai-minh-tinh-4798824.html\n"
+        ]
+    },
+    {
+        "question": "Kịch bản \"Cô dâu hào môn\" được viết bởi ai?",
+        "expected_answers": [
+            "Êkíp Việt"
+        ],
+        "model_response": " Bài viết được cung cấp không chứa thông tin về nhà biên kịch cho bộ phim \"Cô dâu vui vẻ\".",
+        "score": 0,
+        "list_id": [
+            51,
+            50,
+            34
+        ],
+        "list_url": [
+            "https://vnexpress.net/tao-hinh-nu-chinh-phim-ngay-xua-co-mot-chuyen-tinh-4799449.html\n",
+            "https://vnexpress.net/angelina-jolie-dien-mot-ao-choang-tam-xuong-pho-4799432.html\n",
+            "https://vnexpress.net/nha-van-nu-ap-dao-o-booker-2024-4799801.html\n"
+        ]
+    }
+]
